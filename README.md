@@ -1,7 +1,13 @@
 # Unveiling Polarization: Community Detection and Sentiment Analysis on Reddit Discussions
 
+### Authors
+- Matej Kutirov - matej.kutirov@students.unibe.ch
+- Flaminia Trinca - flaminia.trinca@students.unibe.ch
+- Matilde De Luigi - matilde.deluigi@unifr.ch
 
 ## 1. Abstract
+
+This study investigates the dynamics of community detection within a social graph constructed from over one million Reddit posts about the Israeli-Palestinian conflict. By employing sentiment analysis and various community detection algorithms, we analyzed the interplay between social support and emotional intensity in online discussions. Our customized Louvain algorithm demonstrated strong performance, validated through modularity and Normalized Mutual Information (NMI) metrics. Additionally, centrality measures provided insights into network structure and connectivity. Future work includes detailed sentiment analysis within major communities, temporal sentiment analysis, and the application of advanced machine learning models to enhance the accuracy and depth of insights. These efforts aim to deepen our understanding of community dynamics and sentiment expression in conflict-related social networks.
 
 ## 2. Installation instructions
 
@@ -43,7 +49,3 @@ If you use Google Colab to run the notebook, click on this [link](https://colab.
 2. Second navigate to `Runtime -> Run All` in the menu.
 
 The execution time of the whole notebook is around 50 minutes.
-
-## 3. Usage
-
-## 4. Acknowledgements
