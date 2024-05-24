@@ -1,4 +1,5 @@
-# community-detection-israel-palestine-reddit
+# Unveiling Polarization: Community Detection and Sentiment Analysis on Reddit Discussions
+
 
 ## 1. Abstract
 
